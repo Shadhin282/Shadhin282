@@ -2,7 +2,7 @@
   <img width="100%" src="https://i.ibb.co.com/qL0x8J3q/Gemini-Generated-Image-6sj5b96sj5b96sj5.png"/>
   <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,50:00E5FF,100:6A00F4&height=180&section=header&text=Md%20Amdad%20Islam&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32" /> -->
   <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Assalamu+Alaikum+👋;I'm+MD.+ MAHMODUL+HASSEN+KHAN+SHADIN" alt="Typing SVG"> -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=MD.+MAHMODUL+HASSEN+KHAN+SHADIN" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Web+Developer" alt="Typing SVG" /></a>
 </br>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
 </p>
@@ -44,36 +44,22 @@
 </div>
 <div style="background-color: #000000; padding: 20px; border-radius: 5px;">
 
-## 🧰 Languages & Tools:
+### 🧠 Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+#### 💻 Frontend
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,html,css,js)](https://skillicons.dev)
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+#### ⚙️ Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://skillicons.dev)
 
+#### 🚀 Deployment Platform
+[![My Skills](https://skillicons.dev/icons?i=firebase,netlify,vercel)](https://skillicons.dev)
 
-![JWT](https://img.shields.io/badge/-JWT-323330?style=flat&logo=json-web-token&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+#### 🛠️ Tools & Technologies
+[![My Skills](https://skillicons.dev/icons?i=git,github,notion,vscode)](https://skillicons.dev)
 
-
-
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
-</div>
+#### 🎨 Design & Graphics
+[![My Skills](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev)
 
 ## 📈 GitHub Stats
 
