@@ -1,5 +1,7 @@
+
 <p align="center">
-  <img width="100%" alt="shadhin's cover photo" src="https://i.ibb.co.com/HfRG6SQM/Black-And-Grey-Professional-Technology-Linked-In-Banner.png"/>
+  <img src="./Black And Grey Professional Technology LinkedIn Banner.png" alt="Profile" width="100%" />
+  <!-- <img width="100%" alt="shadhin's cover photo" src="https://i.ibb.co.com/HfRG6SQM/Black-And-Grey-Professional-Technology-Linked-In-Banner.png"/> -->
   <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,50:00E5FF,100:6A00F4&height=180&section=header&text=Md%20Amdad%20Islam&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32" /> -->
   <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Assalamu+Alaikum+👋;I'm+MD.+ MAHMODUL+HASSEN+KHAN+SHADIN" alt="Typing SVG"> -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=150&lines=Web+Developer" alt="Typing SVG" /></a>
